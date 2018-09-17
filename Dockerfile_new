@@ -19,9 +19,6 @@ LABEL name="Artifactory Pro" \
       io.openshift.expose-services="" \
       io.openshift.tags="jfrog,artificatory pro"
 
-### Atomic Help File - help.1 already in Markdown and provided with Doockerfile by RH as a simple test
-### https://github.com/projectatomic/container-best-practices/blob/master/creating/help.adoc
-#COPY help.1 /help.1
 
 ### add licenses to this directory
 ### put all end user license agreements in this directory
